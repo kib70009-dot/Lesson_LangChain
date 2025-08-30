@@ -1,0 +1,12 @@
+---
+description: langchain課程
+globs:
+alwaysApply: true
+---
+codebase:
+    - python
+    - langchain
+    - jupyter_notebook
+    - markdown
+
+目的：完成langchain的課程
