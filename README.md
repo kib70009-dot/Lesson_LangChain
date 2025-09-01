@@ -4,13 +4,13 @@ LangChain
   https://meet.google.com/itw-ewsf-fum
 
 ## 上課安裝軟體
-###步驟1.安裝編輯器
+### 步驟1.安裝編輯器
 	cursor
-###步驟2.安裝擴充套件
+### 步驟2.安裝擴充套件
 	1.chinese
 	2.python
 	3.jupyter_notebook
-###步驟3. 安裝git
+### 步驟3. 安裝git
 	1.建立Git帳號
 	2.建立本機端Clone資料夾
 	3.cursor終端機執行下列指令
@@ -18,7 +18,7 @@ LangChain
 		２．git config --global user.email "ＥＭＡＩＬ帳號"
 		３．git config --global pull.rebase false
 	4.cursor指定clone資料夾
-###步驟4. 安裝mini-condaconda基本設定和基本指令
+### 步驟4. 安裝mini-condaconda基本設定和基本指令
 	1.安裝mini-conda
 	2.取消termail一開始就進入base虛擬環境
 		conda config --set auto_activate_base false
@@ -48,7 +48,7 @@ LangChain
 		conda env remove --name 虛擬環境名
 	15.刪除虛擬環境的套件
 		conda remove --name 虛擬環境名 matplotlib
-###步驟5. 本機安裝ollama
+### 步驟5. 本機安裝ollama
 	1.ollama --version
 	2.下載模型
 		ollama pull llama3.2:3b
