@@ -67,8 +67,8 @@ LangChain
 
 ###步驟6. 安裝UV
 	1.安裝uv
-		Windows: powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-		Linux: "curl -LsSf https://astral.sh/uv/install.sh | sh"
+		- Windows: powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+		- Linux: "curl -LsSf https://astral.sh/uv/install.sh | sh"
 	2.快速開始
 		# 在已有的專案
 		uv init --python 3.10
